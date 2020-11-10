@@ -1,6 +1,6 @@
 {
-  "homepage": "http://varianhalai.github.io/add-eth-usdt",
-  "name": "eth-usdt",
+  "homepage": "http://varianhalai.github.io/add-eth-usdc",
+  "name": "eth-usdc",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
